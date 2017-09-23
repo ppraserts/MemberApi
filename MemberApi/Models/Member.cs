@@ -16,29 +16,5 @@ namespace MemberApi.Models
         public ContactInfo ContactInfo { get; set; }
         public Application Application { get; set; }
         public List<PaymentHistory> PaymentHistorys { get; set; }
-
-        public PaymentHistory PaymentHistory
-        {
-            get => default(PaymentHistory);
-            set
-            {
-            }
-        }
-
-        public ContactInfo ContactInfo1
-        {
-            get => default(ContactInfo);
-            set
-            {
-            }
-        }
-
-        public Application Application1
-        {
-            get => default(Application);
-            set
-            {
-            }
-        }
     }
 }

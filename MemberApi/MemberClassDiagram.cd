@@ -27,21 +27,13 @@
       <HashCode>AAAEAAAAABAAAAAEEQAAAAYAAAAAAACAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Member.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="PaymentHistory" />
-      <Property Name="ContactInfo1" />
-      <Property Name="Application1" />
-    </ShowAsAssociation>
   </Class>
   <Class Name="MemberApi.Models.PaymentHistory">
-    <Position X="4.5" Y="2.25" Width="1.5" />
+    <Position X="4.5" Y="2.25" Width="2" />
     <TypeIdentifier>
-      <HashCode>AQAAgAAAAAAAAAAAAAAQAACAAAAAAAAAEAAAAAAgAAA=</HashCode>
+      <HashCode>AAAAgAAAAAAAAAAAAAAQAACAAAAAAAAAEAAAAAAgAAA=</HashCode>
       <FileName>Models\PaymentHistory.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="Bank" />
-    </ShowAsAssociation>
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

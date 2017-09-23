@@ -13,13 +13,5 @@ namespace MemberApi.Models
         public decimal Amount { get; set; }
         public DateTime TransferDateTime { get; set; }
         public Bank TransferBank { get; set; }
-
-        public Bank Bank
-        {
-            get => default(Bank);
-            set
-            {
-            }
-        }
     }
 }
