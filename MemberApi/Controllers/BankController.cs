@@ -1,11 +1,6 @@
-﻿using MemberApi.MockData;
-using MemberApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
+﻿using System.Collections.Generic;
 using System.Web.Http;
+using Member.Models;
 
 namespace MemberApi.Controllers
 {
@@ -14,15 +9,13 @@ namespace MemberApi.Controllers
         // GET: api/Bank
         public IEnumerable<Bank> Get()
         {
-            var banks = BankMockData.Gets(10);
-            return banks;
+            return new List<Bank>();
         }
 
         // GET: api/Bank/5
         public Bank Get(int id)
         {
-            var bank = BankMockData.Get();
-            return bank;
+            return new Bank();
         }
 
         // POST: api/Bank

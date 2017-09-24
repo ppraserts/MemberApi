@@ -1,0 +1,5 @@
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Business\bin\Debug\Member.Business.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Business\bin\Debug\Member.Business.pdb
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Business\obj\Debug\Member.Business.csprojResolveAssemblyReference.cache
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Business\obj\Debug\Member.Business.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Business\obj\Debug\Member.Business.pdb

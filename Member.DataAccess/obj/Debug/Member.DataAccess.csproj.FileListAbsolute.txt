@@ -1,0 +1,7 @@
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.DataAccess\bin\Debug\Member.DataAccess.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.DataAccess\bin\Debug\Member.DataAccess.pdb
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.DataAccess\obj\Debug\Member.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.DataAccess\obj\Debug\Member.DataAccess.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.DataAccess\obj\Debug\Member.DataAccess.pdb
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.DataAccess\bin\Debug\Dapper.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.DataAccess\bin\Debug\Dapper.xml

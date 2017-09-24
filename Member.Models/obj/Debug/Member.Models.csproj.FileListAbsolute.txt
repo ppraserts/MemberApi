@@ -1,0 +1,7 @@
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Models\bin\Debug\Member.Models.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Models\bin\Debug\Member.Models.pdb
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Models\obj\Debug\Member.Models.csprojResolveAssemblyReference.cache
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Models\obj\Debug\Member.Models.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Models\obj\Debug\Member.Models.pdb
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Models\bin\Debug\FluentValidation.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Member.Models\bin\Debug\FluentValidation.xml

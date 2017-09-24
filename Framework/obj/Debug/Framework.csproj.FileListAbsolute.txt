@@ -1,0 +1,4 @@
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Framework\bin\Debug\Framework.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Framework\bin\Debug\Framework.pdb
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Framework\obj\Debug\Framework.dll
+C:\Users\Paul_Prasert\documents\visual studio 2017\Projects\MemberApp\Framework\obj\Debug\Framework.pdb
